@@ -4,7 +4,7 @@
 
     detalhes e disposição da organização da empresa
 
-![organograma-lizzygc](./img/organograma_lizzygc.png)
+![organograma-lizzygc](https://github.com/LizzyGC/organograma-consultoria/raw/main/img/organograma_lizzygc.png)
 
 </div>
 
