@@ -2,8 +2,7 @@
 
 <div align="center">
 
-    detalhes e disposição da organização da empresa
-
+`detalhes e disposição da organização da empresa` \
 ![organograma-lizzygc](https://github.com/LizzyGC/organograma-consultoria/raw/main/img/organograma_lizzygc.png)
 
 </div>
