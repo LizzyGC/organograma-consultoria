@@ -26,3 +26,7 @@ e por conseguinte uma pequena **introdução do trabalho** que será feito pelo 
 
 E finalmente agendar-se-á o `encontro entre os empregadores e o técnico` para decidir se haverá uma **contratação (permanente, temporária ou casual)**, 
 com um `estágio prévio para se avaliar a experiência do técnico`.
+
+---
+
+&copy; 2020-2021 LizzyGC
