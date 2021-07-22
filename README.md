@@ -2,8 +2,9 @@
 
 <div align="center">
 
-`detalhes e disposição da organização da empresa` \
-![organograma-lizzygc](img/organograma_lizzygc.png)
+`detalhes e disposição da organização da empresa` 
+  
+<img alt="organograma-lizzygc" src="img/organograma_lizzygc.png">
 
 </div>
 
