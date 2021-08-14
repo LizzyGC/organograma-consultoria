@@ -1,19 +1,22 @@
+<div align="center">
+  
 # organograma-consultoria
 
-<div align="center">
+![organograma-lizzygc](img/organograma_lizzygc.png)
 
-`detalhes e disposição da organização da empresa` 
+detalhes e disposição da organização da empresa
   
-<img alt="organograma-lizzygc" src="img/organograma_lizzygc.png">
-
 </div>
 
 ## Objectivo geral
 
 1. `Apoiar a comunidade juvenil e instituições encontrando soluções para os seus problemas (econômicos e/ou técnicos)`
 
-**Alvo 1: `Jovens licenciados ou técnicos desempregados, procurando oportunidades de trabalho ou para apresentarem os seus projetos ao mundo`**. \
-**Alvo 2: `Empresas solicitando resolução para os problemas técnicos ou administrativos em suas instituições`**.
+Alvo 1:
+  - **Jovens licenciados ou técnicos desempregados, procurando oportunidades de trabalho ou para apresentarem os seus projetos ao mundo**.
+
+Alvo 2:
+  - **Empresas solicitando resolução para os problemas técnicos ou administrativos em suas instituições**.
 
 ## Objectivos específicos - Atuação
 
