@@ -1,13 +1,7 @@
-<div align="center">
-  
-# organograma-consultoria
-
 ![organograma-lizzygc](https://github.com/LizzyGC/organograma-consultoria/raw/main/img/organograma_lizzygc.png)
 
 detalhes e disposição da organização da empresa
   
-</div>
-
 ## Objectivo geral
 
 1. `Apoiar a comunidade juvenil e instituições encontrando soluções para os seus problemas (econômicos e/ou técnicos)`
