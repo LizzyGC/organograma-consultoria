@@ -2,7 +2,7 @@
   
 # organograma-consultoria
 
-![organograma-lizzygc](https://github.com/LizzyGC/organograma-consultoria/img/organograma_lizzygc.png)
+![organograma-lizzygc](img/organograma_lizzygc.png)
 
 detalhes e disposição da organização da empresa
   
