@@ -30,4 +30,4 @@ com um `estágio prévio para se avaliar a experiência do técnico`.
 
 ---
 
-&copy; 2020-2021 LizzyGC
+&copy; 2021 LizzyGC
