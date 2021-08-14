@@ -1,6 +1,10 @@
+<div align="center">
+
 ![organograma-lizzygc](https://github.com/LizzyGC/organograma-consultoria/raw/main/img/organograma_lizzygc.png)
 
 detalhes e disposição da organização da empresa
+
+</div>
   
 ## Objectivo geral
 
