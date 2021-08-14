@@ -31,3 +31,4 @@ com um `estágio prévio para se avaliar a experiência do técnico`.
 ---
 
 &copy; 2021 LizzyGC
+&trade; ArtesGC Inc
